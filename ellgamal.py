@@ -22,7 +22,7 @@ def main():
     b = random.randint(2, p-1)
     #public B to be shared
     B = pow(g, b, p)
-    print(f"Bob's public key(p,g,b): {p}, {g}, {B}")
+    print(f"Bob's public key(p,g,B): {p}, {g}, {B}")
     #Message
     m = int(input("\nEnter a number as your message: "))
     #r value
