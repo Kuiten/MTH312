@@ -2,7 +2,7 @@
 Code for various ciphers implemented for the final portfolio for MTH 312. 
 - caesar.py - Implementation of the caesar cipher.
 - affine.py - Implementation of affine shifts.
-- Columnar.py - Implemenatation of Columnar Transposition(reads off in columns).
+- Columnar.py - Implemenatation of Columnar Transposition(reads off in columns)(key used is "ENCRYPT").
 - RSA.py - Simple implementation of a RSA cipher.
 - hill.py - Implementation of a hill cipher usng a block size of two.
 - diffie-hellman.py - Implementation of the diffie-hellman key exchange protocol.
